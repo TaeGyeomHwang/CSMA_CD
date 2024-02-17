@@ -1,0 +1,1853 @@
+00:00:000 Node4 Start
+00:00:009 Data Send Request To Node3
+00:00:009 Data Send Request Reject from Link
+00:00:009 Exponential Back-off Time : 0 msec
+00:00:010 Exponential Back-off Time : 0 msec
+00:00:037 Exponential Back-off Time : 3 msec
+00:00:308 Data Receive Start from Node2
+00:00:360 Data Receive Finished from Node2
+00:00:373 Exponential Back-off Time : 107 msec
+00:00:373 Exponential Back-off Time : 0 msec
+00:00:373 Exponential Back-off Time : 0 msec
+00:00:374 Exponential Back-off Time : 0 msec
+00:00:388 Exponential Back-off Time : 0 msec
+00:00:423 Exponential Back-off Time : 25 msec
+00:00:481 Data Receive Start from Node2
+00:00:520 Exponential Back-off Time : 56 msec
+00:00:520 Exponential Back-off Time : 0 msec
+00:00:523 Exponential Back-off Time : 1 msec
+00:00:528 Exponential Back-off Time : 2 msec
+00:00:537 Data Receive Finished from Node2
+00:00:538 Data Receive Start from Node2
+00:00:544 Exponential Back-off Time : 12 msec
+00:00:544 Exponential Back-off Time : 0 msec
+00:00:546 Exponential Back-off Time : 2 msec
+00:00:547 Exponential Back-off Time : 1 msec
+00:00:567 Exponential Back-off Time : 12 msec
+00:00:665 Exponential Back-off Time : 23 msec
+00:01:035 Data Receive Finished from Node2
+00:01:073 Data Receive Start from Node2
+00:01:124 Data Receive Finished from Node2
+00:01:175 Exponential Back-off Time : 167 msec
+00:01:175 Exponential Back-off Time : 0 msec
+00:01:177 Exponential Back-off Time : 0 msec
+00:01:179 Data Receive Start from Node3
+00:01:184 Exponential Back-off Time : 2 msec
+00:01:184 Exponential Back-off Time : 0 msec
+00:01:185 Exponential Back-off Time : 1 msec
+00:01:191 Exponential Back-off Time : 4 msec
+00:01:205 Exponential Back-off Time : 9 msec
+00:01:242 Exponential Back-off Time : 12 msec
+00:01:263 Data Receive Finished from Node3
+00:01:286 Exponential Back-off Time : 43 msec
+00:01:286 Exponential Back-off Time : 0 msec
+00:01:289 Exponential Back-off Time : 2 msec
+00:01:300 Exponential Back-off Time : 6 msec
+00:01:325 Exponential Back-off Time : 12 msec
+00:01:331 Exponential Back-off Time : 1 msec
+00:01:354 Exponential Back-off Time : 19 msec
+00:01:354 Exponential Back-off Time : 0 msec
+00:01:354 Exponential Back-off Time : 0 msec
+00:01:360 Exponential Back-off Time : 0 msec
+00:01:380 Exponential Back-off Time : 9 msec
+00:01:412 Exponential Back-off Time : 15 msec
+00:01:464 Exponential Back-off Time : 52 msec
+00:01:464 Exponential Back-off Time : 0 msec
+00:01:468 Exponential Back-off Time : 2 msec
+00:01:469 Exponential Back-off Time : 0 msec
+00:01:496 Exponential Back-off Time : 8 msec
+00:01:568 Exponential Back-off Time : 47 msec
+00:01:605 Data Send Request To Node3
+00:01:605 Data Send Request Accept from Link
+00:01:638 Exponential Back-off Time : 45 msec
+00:01:638 Exponential Back-off Time : 0 msec
+00:01:642 Exponential Back-off Time : 2 msec
+00:01:642 Exponential Back-off Time : 0 msec
+00:01:652 Exponential Back-off Time : 9 msec
+00:01:659 Data Send Finished To Node3
+00:01:660 Data Receive Start from Node2
+00:01:676 Exponential Back-off Time : 21 msec
+00:01:676 Exponential Back-off Time : 0 msec
+00:01:678 Exponential Back-off Time : 1 msec
+00:01:685 Exponential Back-off Time : 5 msec
+00:01:701 Exponential Back-off Time : 3 msec
+00:01:728 Exponential Back-off Time : 18 msec
+00:01:738 Data Receive Finished from Node2
+00:01:975 Exponential Back-off Time : 114 msec
+00:01:977 Data Send Request To Node2
+00:01:977 Data Send Request Accept from Link
+00:02:000 Exponential Back-off Time : 22 msec
+00:02:000 Exponential Back-off Time : 0 msec
+00:02:000 Exponential Back-off Time : 0 msec
+00:02:002 Exponential Back-off Time : 1 msec
+00:02:030 Exponential Back-off Time : 11 msec
+00:02:077 Exponential Back-off Time : 12 msec
+00:02:083 Data Send Finished To Node2
+00:02:182 Data Receive Start from Node2
+00:02:192 Data Receive Finished from Node2
+00:02:193 Data Receive Start from Node3
+00:02:217 Data Receive Finished from Node3
+00:02:225 Data Send Request To Node3
+00:02:225 Data Send Request Reject from Link
+00:02:225 Exponential Back-off Time : 0 msec
+00:02:226 Exponential Back-off Time : 0 msec
+00:02:228 Exponential Back-off Time : 1 msec
+00:02:302 Exponential Back-off Time : 26 msec
+00:02:576 Exponential Back-off Time : 73 msec
+00:02:580 Data Receive Start from Node2
+00:02:605 Exponential Back-off Time : 52 msec
+00:02:605 Exponential Back-off Time : 0 msec
+00:02:608 Exponential Back-off Time : 2 msec
+00:02:613 Exponential Back-off Time : 5 msec
+00:02:635 Exponential Back-off Time : 10 msec
+00:02:666 Exponential Back-off Time : 10 msec
+00:02:667 Data Receive Finished from Node2
+00:02:705 Exponential Back-off Time : 37 msec
+00:02:705 Exponential Back-off Time : 0 msec
+00:02:707 Exponential Back-off Time : 0 msec
+00:02:712 Exponential Back-off Time : 2 msec
+00:02:718 Exponential Back-off Time : 6 msec
+00:02:739 Exponential Back-off Time : 18 msec
+00:02:739 Exponential Back-off Time : 0 msec
+00:02:742 Exponential Back-off Time : 1 msec
+00:02:753 Exponential Back-off Time : 6 msec
+00:02:763 Exponential Back-off Time : 0 msec
+00:02:787 Exponential Back-off Time : 18 msec
+00:02:802 Data Send Request To Node3
+00:02:802 Data Send Request Accept from Link
+00:02:847 Exponential Back-off Time : 60 msec
+00:02:847 Exponential Back-off Time : 0 msec
+00:02:848 Exponential Back-off Time : 0 msec
+00:02:848 Exponential Back-off Time : 0 msec
+00:02:849 Exponential Back-off Time : 1 msec
+00:02:854 Data Send Finished To Node3
+00:02:861 Exponential Back-off Time : 7 msec
+00:02:861 Exponential Back-off Time : 0 msec
+00:02:865 Exponential Back-off Time : 2 msec
+00:02:875 Exponential Back-off Time : 5 msec
+00:02:876 Exponential Back-off Time : 220 msec
+00:02:885 Exponential Back-off Time : 10 msec
+00:02:912 Exponential Back-off Time : 12 msec
+00:03:017 Exponential Back-off Time : 29 msec
+00:03:148 Exponential Back-off Time : 64 msec
+00:03:165 Data Receive Start from Node1
+00:03:194 Exponential Back-off Time : 45 msec
+00:03:194 Exponential Back-off Time : 0 msec
+00:03:196 Exponential Back-off Time : 2 msec
+00:03:197 Exponential Back-off Time : 0 msec
+00:03:208 Exponential Back-off Time : 3 msec
+00:03:285 Exponential Back-off Time : 7 msec
+00:03:296 Data Receive Finished from Node1
+00:03:355 Data Receive Start from Node3
+00:03:430 Exponential Back-off Time : 101 msec
+00:03:444 Data Receive Finished from Node3
+00:03:507 Data Receive Start from Node1
+00:03:586 Exponential Back-off Time : 111 msec
+00:03:612 Exponential Back-off Time : 308 msec
+00:03:702 Data Receive Finished from Node1
+00:03:703 Data Receive Start from Node1
+00:03:724 Exponential Back-off Time : 27 msec
+00:03:724 Exponential Back-off Time : 0 msec
+00:03:726 Exponential Back-off Time : 0 msec
+00:03:741 Exponential Back-off Time : 4 msec
+00:03:836 Exponential Back-off Time : 14 msec
+00:03:890 Exponential Back-off Time : 44 msec
+00:03:904 Data Receive Finished from Node1
+00:03:905 Data Receive Start from Node3
+00:03:986 Exponential Back-off Time : 50 msec
+00:04:056 Data Receive Finished from Node3
+00:04:057 Data Send Request To Node3
+00:04:057 Data Send Request Accept from Link
+00:04:113 Data Send Finished To Node3
+00:04:114 Data Receive Start from Node2
+00:04:154 Exponential Back-off Time : 83 msec
+00:04:187 Exponential Back-off Time : 1 msec
+00:04:298 Data Receive Finished from Node2
+00:04:299 Data Send Request To Node2
+00:04:299 Data Send Request Accept from Link
+00:04:356 Data Send Finished To Node2
+00:04:357 Data Send Request To Node3
+00:04:357 Data Send Request Accept from Link
+00:04:368 Exponential Back-off Time : 95 msec
+00:04:368 Exponential Back-off Time : 0 msec
+00:04:371 Exponential Back-off Time : 2 msec
+00:04:374 Exponential Back-off Time : 1 msec
+00:04:392 Exponential Back-off Time : 246 msec
+00:04:550 Exponential Back-off Time : 16 msec
+00:04:749 Exponential Back-off Time : 10 msec
+00:04:765 Data Send Finished To Node3
+00:04:766 Data Send Request To Node2
+00:04:766 Data Send Request Accept from Link
+00:04:818 Data Send Finished To Node2
+00:04:942 Exponential Back-off Time : 147 msec
+00:04:942 Exponential Back-off Time : 0 msec
+00:04:944 Exponential Back-off Time : 1 msec
+00:04:952 Exponential Back-off Time : 2 msec
+00:04:965 Exponential Back-off Time : 12 msec
+00:04:968 Exponential Back-off Time : 0 msec
+00:05:054 Exponential Back-off Time : 58 msec
+00:05:115 Exponential Back-off Time : 0 msec
+00:05:197 Exponential Back-off Time : 252 msec
+00:05:340 Exponential Back-off Time : 62 msec
+00:05:342 Data Send Request To Node2
+00:05:342 Data Send Request Accept from Link
+00:05:348 Exponential Back-off Time : 42 msec
+00:05:348 Exponential Back-off Time : 0 msec
+00:05:350 Exponential Back-off Time : 1 msec
+00:05:352 Exponential Back-off Time : 2 msec
+00:05:363 Exponential Back-off Time : 11 msec
+00:05:375 Exponential Back-off Time : 0 msec
+00:05:406 Data Send Finished To Node2
+00:05:407 Data Send Request To Node1
+00:05:407 Data Send Request Accept from Link
+00:05:415 Exponential Back-off Time : 39 msec
+00:05:415 Exponential Back-off Time : 0 msec
+00:05:416 Exponential Back-off Time : 1 msec
+00:05:423 Exponential Back-off Time : 4 msec
+00:05:436 Exponential Back-off Time : 8 msec
+00:05:753 Data Send Finished To Node1
+00:05:754 Exponential Back-off Time : 34 msec
+00:05:754 Exponential Back-off Time : 0 msec
+00:05:754 Exponential Back-off Time : 0 msec
+00:05:756 Exponential Back-off Time : 0 msec
+00:05:778 Exponential Back-off Time : 10 msec
+00:05:788 Exponential Back-off Time : 7 msec
+00:05:840 Exponential Back-off Time : 52 msec
+00:05:840 Exponential Back-off Time : 0 msec
+00:05:843 Exponential Back-off Time : 1 msec
+00:05:845 Exponential Back-off Time : 0 msec
+00:05:857 Exponential Back-off Time : 0 msec
+00:05:901 Exponential Back-off Time : 26 msec
+00:05:951 Exponential Back-off Time : 20 msec
+00:06:128 Exponential Back-off Time : 236 msec
+00:06:343 Exponential Back-off Time : 27 msec
+00:06:353 Data Receive Start from Node3
+00:06:405 Data Receive Finished from Node3
+00:06:467 Data Receive Start from Node1
+00:06:534 Data Receive Finished from Node1
+00:06:671 Exponential Back-off Time : 250 msec
+00:06:671 Exponential Back-off Time : 0 msec
+00:06:673 Exponential Back-off Time : 2 msec
+00:06:678 Exponential Back-off Time : 0 msec
+00:06:690 Exponential Back-off Time : 0 msec
+00:06:743 Exponential Back-off Time : 27 msec
+00:06:755 Data Send Request To Node2
+00:06:755 Data Send Request Accept from Link
+00:06:767 Exponential Back-off Time : 21 msec
+00:06:767 Exponential Back-off Time : 0 msec
+00:06:770 Exponential Back-off Time : 2 msec
+00:06:776 Exponential Back-off Time : 3 msec
+00:06:791 Exponential Back-off Time : 4 msec
+00:06:834 Exponential Back-off Time : 27 msec
+00:06:848 Exponential Back-off Time : 3 msec
+00:06:909 Data Send Finished To Node2
+00:07:001 Exponential Back-off Time : 96 msec
+00:07:001 Exponential Back-off Time : 0 msec
+00:07:003 Exponential Back-off Time : 2 msec
+00:07:008 Exponential Back-off Time : 4 msec
+00:07:026 Exponential Back-off Time : 14 msec
+00:07:026 Exponential Back-off Time : 0 msec
+00:07:029 Exponential Back-off Time : 2 msec
+00:07:033 Exponential Back-off Time : 1 msec
+00:07:040 Exponential Back-off Time : 6 msec
+00:07:047 Exponential Back-off Time : 0 msec
+00:07:076 Exponential Back-off Time : 10 msec
+00:07:097 Data Receive Start from Node1
+00:07:152 Data Receive Finished from Node1
+00:07:153 Data Receive Start from Node3
+00:07:176 Exponential Back-off Time : 82 msec
+00:07:289 Exponential Back-off Time : 30 msec
+00:07:302 Data Receive Finished from Node3
+00:07:303 Data Send Request To Node1
+00:07:303 Data Send Request Accept from Link
+00:07:313 Exponential Back-off Time : 21 msec
+00:07:313 Exponential Back-off Time : 0 msec
+00:07:313 Exponential Back-off Time : 0 msec
+00:07:319 Exponential Back-off Time : 0 msec
+00:07:333 Exponential Back-off Time : 6 msec
+00:07:359 Exponential Back-off Time : 10 msec
+00:07:409 Exponential Back-off Time : 23 msec
+00:07:414 Data Send Finished To Node1
+00:07:415 Data Receive Start from Node3
+00:07:472 Data Receive Finished from Node3
+00:07:481 Exponential Back-off Time : 63 msec
+00:07:504 Exponential Back-off Time : 10 msec
+00:07:517 Data Receive Start from Node1
+00:07:524 Exponential Back-off Time : 5 msec
+00:07:524 Exponential Back-off Time : 0 msec
+00:07:524 Exponential Back-off Time : 0 msec
+00:07:525 Exponential Back-off Time : 0 msec
+00:07:622 Exponential Back-off Time : 12 msec
+00:07:724 Data Receive Finished from Node1
+00:07:893 Exponential Back-off Time : 112 msec
+00:08:218 Exponential Back-off Time : 863 msec
+00:08:652 Exponential Back-off Time : 25 msec
+00:08:655 Data Receive Start from Node3
+00:08:707 Data Receive Finished from Node3
+00:08:708 Data Send Request To Node2
+00:08:708 Data Send Request Accept from Link
+00:08:759 Data Send Finished To Node2
+00:08:850 Data Receive Start from Node3
+00:08:899 Data Receive Finished from Node3
+00:09:075 Exponential Back-off Time : 336 msec
+00:09:105 Exponential Back-off Time : 0 msec
+00:09:245 Data Receive Start from Node3
+00:09:270 Exponential Back-off Time : 110 msec
+00:09:270 Exponential Back-off Time : 0 msec
+00:09:273 Exponential Back-off Time : 2 msec
+00:09:281 Exponential Back-off Time : 5 msec
+00:09:299 Exponential Back-off Time : 9 msec
+00:09:308 Data Receive Finished from Node3
+00:09:309 Data Send Request To Node2
+00:09:309 Data Send Request Accept from Link
+00:09:319 Exponential Back-off Time : 19 msec
+00:09:319 Exponential Back-off Time : 0 msec
+00:09:322 Exponential Back-off Time : 2 msec
+00:09:333 Exponential Back-off Time : 5 msec
+00:09:335 Exponential Back-off Time : 1 msec
+00:09:381 Exponential Back-off Time : 17 msec
+00:09:396 Data Send Finished To Node2
+00:09:397 Data Send Request To Node1
+00:09:397 Exponential Back-off Time : 527 msec
+00:09:397 Exponential Back-off Time : 0 msec
+00:09:399 Exponential Back-off Time : 0 msec
+00:09:397 Data Send Request Accept from Link
+00:09:418 Exponential Back-off Time : 5 msec
+00:09:424 Exponential Back-off Time : 27 msec
+00:09:506 Exponential Back-off Time : 13 msec
+00:09:660 Exponential Back-off Time : 40 msec
+00:09:663 Data Send Finished To Node1
+00:09:664 Data Receive Start from Node2
+00:09:726 Data Receive Finished from Node2
+00:09:727 Data Receive Start from Node1
+00:09:828 Data Receive Finished from Node1
+00:09:829 Data Receive Start from Node3
+00:09:845 Exponential Back-off Time : 149 msec
+00:09:845 Exponential Back-off Time : 0 msec
+00:09:847 Exponential Back-off Time : 1 msec
+00:09:848 Exponential Back-off Time : 1 msec
+00:09:874 Exponential Back-off Time : 4 msec
+00:09:958 Data Receive Finished from Node3
+00:09:985 Exponential Back-off Time : 56 msec
+00:09:985 Exponential Back-off Time : 0 msec
+00:09:986 Exponential Back-off Time : 0 msec
+00:09:991 Exponential Back-off Time : 0 msec
+00:10:012 Exponential Back-off Time : 192 msec
+00:10:025 Exponential Back-off Time : 1 msec
+00:10:029 Exponential Back-off Time : 14 msec
+00:10:062 Exponential Back-off Time : 35 msec
+00:10:062 Exponential Back-off Time : 0 msec
+00:10:063 Exponential Back-off Time : 0 msec
+00:10:069 Exponential Back-off Time : 0 msec
+00:10:086 Exponential Back-off Time : 35 msec
+00:10:102 Exponential Back-off Time : 13 msec
+00:10:143 Exponential Back-off Time : 4 msec
+00:10:233 Exponential Back-off Time : 21 msec
+00:10:355 Data Receive Start from Node2
+00:10:364 Data Receive Finished from Node2
+00:10:371 Data Send Request To Node1
+00:10:371 Data Send Request Reject from Link
+00:10:371 Exponential Back-off Time : 0 msec
+00:10:373 Exponential Back-off Time : 1 msec
+00:10:381 Data Send Request To Node2
+00:10:381 Data Send Request Accept from Link
+00:10:388 Exponential Back-off Time : 6 msec
+00:10:388 Exponential Back-off Time : 0 msec
+00:10:388 Exponential Back-off Time : 0 msec
+00:10:397 Exponential Back-off Time : 4 msec
+00:10:424 Exponential Back-off Time : 14 msec
+00:10:431 Exponential Back-off Time : 0 msec
+00:10:458 Data Send Finished To Node2
+00:10:482 Exponential Back-off Time : 103 msec
+00:10:482 Exponential Back-off Time : 0 msec
+00:10:484 Exponential Back-off Time : 0 msec
+00:10:490 Exponential Back-off Time : 56 msec
+00:10:492 Exponential Back-off Time : 5 msec
+00:10:524 Exponential Back-off Time : 11 msec
+00:10:558 Exponential Back-off Time : 21 msec
+00:10:563 Data Receive Start from Node3
+00:10:587 Exponential Back-off Time : 36 msec
+00:10:587 Exponential Back-off Time : 0 msec
+00:10:589 Exponential Back-off Time : 1 msec
+00:10:593 Exponential Back-off Time : 0 msec
+00:10:601 Exponential Back-off Time : 30 msec
+00:10:620 Exponential Back-off Time : 8 msec
+00:10:645 Exponential Back-off Time : 170 msec
+00:10:650 Data Receive Finished from Node3
+00:10:659 Exponential Back-off Time : 30 msec
+00:10:659 Exponential Back-off Time : 0 msec
+00:10:659 Exponential Back-off Time : 0 msec
+00:10:659 Exponential Back-off Time : 0 msec
+00:10:660 Exponential Back-off Time : 0 msec
+00:10:661 Exponential Back-off Time : 11 msec
+00:10:727 Exponential Back-off Time : 46 msec
+00:10:803 Exponential Back-off Time : 27 msec
+00:10:834 Exponential Back-off Time : 30 msec
+00:10:834 Exponential Back-off Time : 0 msec
+00:10:835 Exponential Back-off Time : 0 msec
+00:10:838 Exponential Back-off Time : 1 msec
+00:10:845 Exponential Back-off Time : 61 msec
+00:10:876 Exponential Back-off Time : 7 msec
+00:10:930 Exponential Back-off Time : 19 msec
+00:11:032 Exponential Back-off Time : 74 msec
+00:11:063 Exponential Back-off Time : 58 msec
+00:11:063 Exponential Back-off Time : 0 msec
+00:11:064 Exponential Back-off Time : 1 msec
+00:11:075 Exponential Back-off Time : 6 msec
+00:11:089 Exponential Back-off Time : 51 msec
+00:11:112 Exponential Back-off Time : 5 msec
+00:11:126 Exponential Back-off Time : 19 msec
+00:11:126 Data Send Request Accept from Link
+00:11:137 Data Send Finished To Node3
+00:11:153 Exponential Back-off Time : 32 msec
+00:11:179 Exponential Back-off Time : 7 msec
+00:11:358 Exponential Back-off Time : 17 msec
+00:11:602 Data Receive Start from Node3
+00:11:634 Exponential Back-off Time : 202 msec
+00:11:634 Exponential Back-off Time : 0 msec
+00:11:634 Exponential Back-off Time : 0 msec
+00:11:638 Exponential Back-off Time : 3 msec
+00:11:652 Exponential Back-off Time : 0 msec
+00:11:677 Exponential Back-off Time : 8 msec
+00:11:684 Data Receive Finished from Node3
+00:11:685 Data Send Request To Node2
+00:11:685 Data Send Request Accept from Link
+00:11:723 Exponential Back-off Time : 25 msec
+00:11:864 Exponential Back-off Time : 7 msec
+00:11:890 Data Send Finished To Node2
+00:11:891 Data Send Request To Node1
+00:11:891 Data Send Request Accept from Link
+00:11:914 Exponential Back-off Time : 49 msec
+00:11:914 Exponential Back-off Time : 0 msec
+00:11:914 Exponential Back-off Time : 0 msec
+00:11:918 Exponential Back-off Time : 2 msec
+00:11:928 Exponential Back-off Time : 1 msec
+00:11:957 Exponential Back-off Time : 10 msec
+00:11:973 Data Send Finished To Node1
+00:11:992 Exponential Back-off Time : 244 msec
+00:11:992 Exponential Back-off Time : 0 msec
+00:11:993 Exponential Back-off Time : 1 msec
+00:11:997 Exponential Back-off Time : 3 msec
+00:12:016 Exponential Back-off Time : 1 msec
+00:12:029 Exponential Back-off Time : 44 msec
+00:12:062 Data Receive Start from Node1
+00:12:075 Exponential Back-off Time : 41 msec
+00:12:075 Exponential Back-off Time : 0 msec
+00:12:077 Exponential Back-off Time : 2 msec
+00:12:083 Exponential Back-off Time : 3 msec
+00:12:097 Exponential Back-off Time : 10 msec
+00:12:120 Data Receive Finished from Node1
+00:12:121 Data Send Request To Node3
+00:12:121 Data Send Request Accept from Link
+00:12:129 Exponential Back-off Time : 30 msec
+00:12:129 Exponential Back-off Time : 0 msec
+00:12:130 Exponential Back-off Time : 1 msec
+00:12:134 Exponential Back-off Time : 2 msec
+00:12:143 Exponential Back-off Time : 9 msec
+00:12:168 Exponential Back-off Time : 103 msec
+00:12:205 Exponential Back-off Time : 22 msec
+00:12:294 Exponential Back-off Time : 15 msec
+00:12:303 Data Send Finished To Node3
+00:12:304 Data Send Request To Node3
+00:12:304 Data Send Request Accept from Link
+00:12:328 Exponential Back-off Time : 34 msec
+00:12:328 Exponential Back-off Time : 0 msec
+00:12:328 Exponential Back-off Time : 0 msec
+00:12:329 Exponential Back-off Time : 0 msec
+00:12:349 Exponential Back-off Time : 13 msec
+00:12:364 Data Send Finished To Node3
+00:12:374 Exponential Back-off Time : 23 msec
+00:12:374 Exponential Back-off Time : 0 msec
+00:12:376 Exponential Back-off Time : 2 msec
+00:12:383 Exponential Back-off Time : 2 msec
+00:12:404 Exponential Back-off Time : 11 msec
+00:12:455 Exponential Back-off Time : 27 msec
+00:12:515 Exponential Back-off Time : 0 msec
+00:12:518 Data Send Request To Node1
+00:12:518 Data Send Request Accept from Link
+00:12:541 Exponential Back-off Time : 23 msec
+00:12:541 Exponential Back-off Time : 0 msec
+00:12:584 Data Send Finished To Node1
+00:12:674 Exponential Back-off Time : 31 msec
+00:12:674 Data Send Request Accept from Link
+00:12:675 Exponential Back-off Time : 166 msec
+00:12:675 Exponential Back-off Time : 0 msec
+00:12:682 Exponential Back-off Time : 2 msec
+00:12:689 Data Send Finished To Node3
+00:12:690 Data Receive Start from Node2
+00:12:705 Exponential Back-off Time : 8 msec
+00:12:758 Exponential Back-off Time : 8 msec
+00:12:897 Data Receive Finished from Node2
+00:12:898 Data Receive Start from Node3
+00:12:917 Exponential Back-off Time : 53 msec
+00:12:955 Exponential Back-off Time : 7 msec
+00:13:013 Data Receive Finished from Node3
+00:13:090 Exponential Back-off Time : 62 msec
+00:13:191 Exponential Back-off Time : 1 msec
+00:13:317 Data Send Request To Node3
+00:13:317 Data Send Request Accept from Link
+00:13:381 Data Send Finished To Node3
+00:13:382 Data Receive Start from Node1
+00:13:464 Data Receive Finished from Node1
+00:13:465 Data Send Request To Node1
+00:13:465 Data Send Request Accept from Link
+00:13:518 Exponential Back-off Time : 212 msec
+00:13:530 Data Send Finished To Node1
+00:13:543 Data Send Request To Node1
+00:13:543 Data Send Request Accept from Link
+00:13:569 Exponential Back-off Time : 27 msec
+00:13:602 Exponential Back-off Time : 7 msec
+00:13:727 Exponential Back-off Time : 10 msec
+00:13:751 Data Send Finished To Node1
+00:13:795 Exponential Back-off Time : 69 msec
+00:13:795 Exponential Back-off Time : 0 msec
+00:13:796 Exponential Back-off Time : 0 msec
+00:13:799 Exponential Back-off Time : 0 msec
+00:13:808 Data Receive Start from Node1
+00:13:817 Exponential Back-off Time : 14 msec
+00:13:817 Exponential Back-off Time : 0 msec
+00:13:818 Exponential Back-off Time : 0 msec
+00:13:820 Exponential Back-off Time : 1 msec
+00:13:835 Exponential Back-off Time : 8 msec
+00:14:209 Exponential Back-off Time : 22 msec
+00:14:223 Data Receive Finished from Node1
+00:14:310 Data Receive Start from Node3
+00:14:322 Data Receive Finished from Node3
+00:14:323 Data Receive Start from Node1
+00:14:337 Data Receive Finished from Node1
+00:14:367 Exponential Back-off Time : 92 msec
+00:14:896 Exponential Back-off Time : 27 msec
+00:14:907 Data Receive Start from Node2
+00:14:924 Exponential Back-off Time : 25 msec
+00:14:924 Exponential Back-off Time : 0 msec
+00:14:926 Exponential Back-off Time : 2 msec
+00:14:938 Exponential Back-off Time : 6 msec
+00:14:952 Exponential Back-off Time : 11 msec
+00:14:996 Exponential Back-off Time : 15 msec
+00:14:998 Data Receive Finished from Node2
+00:15:021 Exponential Back-off Time : 22 msec
+00:15:021 Exponential Back-off Time : 0 msec
+00:15:023 Exponential Back-off Time : 2 msec
+00:15:034 Exponential Back-off Time : 6 msec
+00:15:042 Exponential Back-off Time : 6 msec
+00:15:066 Exponential Back-off Time : 14 msec
+00:15:089 Exponential Back-off Time : 20 msec
+00:15:089 Exponential Back-off Time : 0 msec
+00:15:091 Exponential Back-off Time : 0 msec
+00:15:094 Exponential Back-off Time : 0 msec
+00:15:099 Exponential Back-off Time : 5 msec
+00:15:144 Exponential Back-off Time : 20 msec
+00:15:273 Exponential Back-off Time : 79 msec
+00:15:273 Exponential Back-off Time : 0 msec
+00:15:275 Exponential Back-off Time : 1 msec
+00:15:287 Exponential Back-off Time : 3 msec
+00:15:287 Exponential Back-off Time : 0 msec
+00:15:475 Exponential Back-off Time : 50 msec
+00:15:585 Exponential Back-off Time : 26 msec
+00:15:619 Exponential Back-off Time : 32 msec
+00:15:619 Exponential Back-off Time : 0 msec
+00:15:625 Exponential Back-off Time : 2 msec
+00:15:657 Exponential Back-off Time : 4 msec
+00:15:828 Data Send Request To Node1
+00:15:828 Data Send Request Accept from Link
+00:15:828 Exponential Back-off Time : 19 msec
+00:15:828 Exponential Back-off Time : 0 msec
+00:15:829 Exponential Back-off Time : 0 msec
+00:15:843 Exponential Back-off Time : 3 msec
+00:15:861 Exponential Back-off Time : 14 msec
+00:15:930 Exponential Back-off Time : 28 msec
+00:15:935 Data Send Finished To Node1
+00:16:011 Data Send Request To Node2
+00:16:013 Data Send Request Accept from Link
+00:16:270 Exponential Back-off Time : 111 msec
+00:16:271 Data Send Finished To Node2
+00:16:383 Data Receive Start from Node1
+00:16:447 Data Receive Finished from Node1
+00:16:522 Data Receive Start from Node3
+00:16:594 Data Receive Finished from Node3
+00:16:595 Data Receive Start from Node1
+00:16:655 Data Receive Finished from Node1
+00:16:858 Data Send Request To Node3
+00:16:858 Data Send Request Accept from Link
+00:16:909 Data Send Finished To Node3
+00:17:102 Data Receive Start from Node3
+00:17:113 Data Receive Finished from Node3
+00:17:114 Data Receive Start from Node2
+00:17:132 Data Receive Finished from Node2
+00:17:132 Data Receive Start from Node3
+00:17:165 Data Receive Finished from Node3
+00:17:166 Data Send Request To Node3
+00:17:166 Data Send Request Accept from Link
+00:17:183 Exponential Back-off Time : 510 msec
+00:17:183 Exponential Back-off Time : 0 msec
+00:17:187 Exponential Back-off Time : 2 msec
+00:17:189 Exponential Back-off Time : 2 msec
+00:17:202 Exponential Back-off Time : 7 msec
+00:17:244 Exponential Back-off Time : 12 msec
+00:17:279 Data Send Finished To Node3
+00:17:298 Exponential Back-off Time : 29 msec
+00:17:298 Exponential Back-off Time : 0 msec
+00:17:300 Exponential Back-off Time : 2 msec
+00:17:303 Exponential Back-off Time : 1 msec
+00:17:325 Exponential Back-off Time : 11 msec
+00:17:360 Exponential Back-off Time : 18 msec
+00:17:364 Data Send Request To Node1
+00:17:364 Data Send Request Accept from Link
+00:17:388 Exponential Back-off Time : 26 msec
+00:17:388 Exponential Back-off Time : 0 msec
+00:17:388 Exponential Back-off Time : 0 msec
+00:17:398 Exponential Back-off Time : 4 msec
+00:17:407 Exponential Back-off Time : 3 msec
+00:17:438 Exponential Back-off Time : 18 msec
+00:17:441 Data Send Finished To Node1
+00:17:442 Data Send Request To Node2
+00:17:442 Data Send Request Accept from Link
+00:17:493 Data Send Finished To Node2
+00:17:501 Exponential Back-off Time : 59 msec
+00:17:501 Exponential Back-off Time : 0 msec
+00:17:502 Exponential Back-off Time : 0 msec
+00:17:505 Exponential Back-off Time : 3 msec
+00:17:512 Exponential Back-off Time : 3 msec
+00:17:548 Exponential Back-off Time : 11 msec
+00:17:634 Data Receive Start from Node1
+00:17:660 Exponential Back-off Time : 55 msec
+00:17:660 Exponential Back-off Time : 0 msec
+00:17:664 Exponential Back-off Time : 2 msec
+00:17:670 Exponential Back-off Time : 2 msec
+00:17:704 Exponential Back-off Time : 10 msec
+00:17:804 Data Receive Finished from Node1
+00:17:830 Exponential Back-off Time : 36 msec
+00:17:830 Exponential Back-off Time : 0 msec
+00:17:833 Exponential Back-off Time : 2 msec
+00:17:842 Exponential Back-off Time : 6 msec
+00:17:863 Exponential Back-off Time : 13 msec
+00:17:885 Exponential Back-off Time : 0 msec
+00:17:893 Data Send Request To Node1
+00:17:893 Data Send Request Accept from Link
+00:17:926 Exponential Back-off Time : 39 msec
+00:17:926 Exponential Back-off Time : 0 msec
+00:17:926 Exponential Back-off Time : 0 msec
+00:17:931 Exponential Back-off Time : 1 msec
+00:17:953 Exponential Back-off Time : 11 msec
+00:17:960 Data Send Finished To Node1
+00:17:961 Data Receive Start from Node2
+00:17:977 Exponential Back-off Time : 21 msec
+00:17:977 Exponential Back-off Time : 0 msec
+00:17:977 Exponential Back-off Time : 0 msec
+00:17:978 Exponential Back-off Time : 0 msec
+00:17:982 Exponential Back-off Time : 4 msec
+00:18:013 Exponential Back-off Time : 29 msec
+00:18:017 Data Receive Finished from Node2
+00:18:018 Data Receive Start from Node2
+00:18:024 Exponential Back-off Time : 11 msec
+00:18:024 Exponential Back-off Time : 0 msec
+00:18:027 Exponential Back-off Time : 1 msec
+00:18:030 Exponential Back-off Time : 2 msec
+00:18:041 Exponential Back-off Time : 1 msec
+00:18:121 Exponential Back-off Time : 25 msec
+00:18:253 Data Receive Finished from Node2
+00:18:254 Data Receive Start from Node2
+00:18:327 Data Receive Finished from Node2
+00:18:374 Exponential Back-off Time : 108 msec
+00:18:439 Exponential Back-off Time : 28 msec
+00:18:439 Exponential Back-off Time : 0 msec
+00:18:441 Exponential Back-off Time : 2 msec
+00:18:445 Exponential Back-off Time : 1 msec
+00:18:455 Exponential Back-off Time : 2 msec
+00:18:483 Exponential Back-off Time : 22 msec
+00:18:493 Data Send Request To Node3
+00:18:493 Data Send Request Accept from Link
+00:18:578 Exponential Back-off Time : 47 msec
+00:18:815 Exponential Back-off Time : 2 msec
+00:18:827 Data Send Finished To Node3
+00:18:881 Data Send Request To Node3
+00:18:881 Data Send Request Accept from Link
+00:18:932 Data Send Finished To Node3
+00:18:933 Data Send Request To Node2
+00:18:933 Data Send Request Accept from Link
+00:18:983 Data Send Finished To Node2
+00:18:984 Data Send Request To Node1
+00:18:984 Data Send Request Accept from Link
+00:19:034 Data Send Finished To Node1
+00:19:101 Data Receive Start from Node1
+00:19:263 Data Receive Finished from Node1
+00:19:316 Data Send Request To Node2
+00:19:316 Data Send Request Accept from Link
+00:19:357 Exponential Back-off Time : 431 msec
+00:19:357 Exponential Back-off Time : 0 msec
+00:19:359 Exponential Back-off Time : 0 msec
+00:19:364 Exponential Back-off Time : 2 msec
+00:19:378 Exponential Back-off Time : 1 msec
+00:19:381 Data Send Finished To Node2
+00:19:382 Data Send Request To Node1
+00:19:382 Data Send Request Accept from Link
+00:19:399 Exponential Back-off Time : 18 msec
+00:19:399 Exponential Back-off Time : 0 msec
+00:19:402 Exponential Back-off Time : 1 msec
+00:19:408 Exponential Back-off Time : 0 msec
+00:19:426 Exponential Back-off Time : 4 msec
+00:19:456 Exponential Back-off Time : 23 msec
+00:19:464 Data Send Finished To Node1
+00:19:551 Exponential Back-off Time : 48 msec
+00:19:640 Data Receive Start from Node2
+00:19:666 Exponential Back-off Time : 89 msec
+00:19:666 Exponential Back-off Time : 0 msec
+00:19:669 Exponential Back-off Time : 2 msec
+00:19:700 Exponential Back-off Time : 4 msec
+00:19:823 Exponential Back-off Time : 9 msec
+00:19:834 Data Receive Finished from Node2
+00:19:875 Exponential Back-off Time : 36 msec
+00:19:897 Exponential Back-off Time : 2 msec
+00:20:054 Data Send Request To Node3
+00:20:054 Data Send Request Accept from Link
+00:20:061 Exponential Back-off Time : 35 msec
+00:20:061 Exponential Back-off Time : 0 msec
+00:20:063 Exponential Back-off Time : 1 msec
+00:20:068 Exponential Back-off Time : 5 msec
+00:20:085 Exponential Back-off Time : 3 msec
+00:20:149 Data Send Finished To Node3
+00:20:150 Data Receive Start from Node1
+00:20:169 Exponential Back-off Time : 55 msec
+00:20:169 Exponential Back-off Time : 0 msec
+00:20:174 Exponential Back-off Time : 1 msec
+00:20:249 Exponential Back-off Time : 13 msec
+00:20:269 Data Receive Finished from Node1
+00:20:270 Data Receive Start from Node2
+00:20:347 Data Receive Finished from Node2
+00:20:348 Data Send Request To Node2
+00:20:348 Data Send Request Accept from Link
+00:20:353 Exponential Back-off Time : 75 msec
+00:20:353 Exponential Back-off Time : 0 msec
+00:20:356 Exponential Back-off Time : 1 msec
+00:20:358 Exponential Back-off Time : 0 msec
+00:20:378 Exponential Back-off Time : 9 msec
+00:20:415 Exponential Back-off Time : 8 msec
+00:20:490 Data Send Finished To Node2
+00:20:526 Exponential Back-off Time : 48 msec
+00:20:632 Exponential Back-off Time : 55 msec
+00:20:632 Exponential Back-off Time : 0 msec
+00:20:634 Exponential Back-off Time : 1 msec
+00:20:636 Exponential Back-off Time : 2 msec
+00:20:651 Exponential Back-off Time : 6 msec
+00:20:674 Exponential Back-off Time : 13 msec
+00:20:741 Exponential Back-off Time : 36 msec
+00:21:080 Exponential Back-off Time : 22 msec
+00:21:083 Data Receive Start from Node3
+00:21:135 Data Receive Finished from Node3
+00:21:185 Data Receive Start from Node2
+00:21:234 Exponential Back-off Time : 158 msec
+00:21:234 Exponential Back-off Time : 0 msec
+00:21:234 Exponential Back-off Time : 0 msec
+00:21:235 Data Receive Finished from Node2
+00:21:236 Exponential Back-off Time : 2 msec
+00:21:236 Exponential Back-off Time : 0 msec
+00:21:238 Exponential Back-off Time : 0 msec
+00:21:251 Exponential Back-off Time : 6 msec
+00:21:261 Exponential Back-off Time : 7 msec
+00:21:285 Exponential Back-off Time : 25 msec
+00:21:362 Exponential Back-off Time : 51 msec
+00:21:362 Exponential Back-off Time : 0 msec
+00:21:365 Exponential Back-off Time : 1 msec
+00:21:365 Exponential Back-off Time : 0 msec
+00:21:384 Exponential Back-off Time : 11 msec
+00:21:384 Data Send Request Accept from Link
+00:21:394 Data Send Finished To Node1
+00:21:489 Data Receive Start from Node2
+00:21:579 Data Receive Finished from Node2
+00:21:580 Data Send Request To Node1
+00:21:580 Data Send Request Accept from Link
+00:21:639 Data Send Finished To Node1
+00:22:026 Data Receive Start from Node2
+00:22:077 Data Receive Finished from Node2
+00:22:078 Data Send Request To Node3
+00:22:078 Data Send Request Accept from Link
+00:22:128 Data Send Finished To Node3
+00:22:582 Data Send Request To Node1
+00:22:582 Data Send Request Accept from Link
+00:22:702 Data Send Finished To Node1
+00:23:168 Data Receive Start from Node2
+00:23:169 Data Send Request To Node1
+00:23:169 Data Send Request Reject from Link
+00:23:169 Exponential Back-off Time : 0 msec
+00:23:170 Exponential Back-off Time : 1 msec
+00:23:177 Data Receive Finished from Node2
+00:23:178 Data Send Request To Node3
+00:23:178 Data Send Request Accept from Link
+00:23:184 Exponential Back-off Time : 4 msec
+00:23:184 Exponential Back-off Time : 0 msec
+00:23:186 Exponential Back-off Time : 2 msec
+00:23:186 Exponential Back-off Time : 0 msec
+00:23:192 Exponential Back-off Time : 7 msec
+00:23:203 Exponential Back-off Time : 9 msec
+00:23:262 Exponential Back-off Time : 9 msec
+00:23:390 Data Send Finished To Node3
+00:23:417 Exponential Back-off Time : 46 msec
+00:23:417 Exponential Back-off Time : 0 msec
+00:23:420 Exponential Back-off Time : 2 msec
+00:23:425 Exponential Back-off Time : 2 msec
+00:23:428 Exponential Back-off Time : 2 msec
+00:23:448 Data Send Request To Node2
+00:23:448 Data Send Request Accept from Link
+00:23:458 Exponential Back-off Time : 27 msec
+00:23:458 Exponential Back-off Time : 0 msec
+00:23:465 Exponential Back-off Time : 2 msec
+00:23:483 Exponential Back-off Time : 4 msec
+00:23:516 Exponential Back-off Time : 8 msec
+00:23:609 Data Send Finished To Node2
+00:23:668 Data Receive Start from Node3
+00:23:677 Exponential Back-off Time : 89 msec
+00:23:677 Exponential Back-off Time : 0 msec
+00:23:678 Exponential Back-off Time : 1 msec
+00:23:686 Exponential Back-off Time : 2 msec
+00:23:689 Exponential Back-off Time : 0 msec
+00:23:772 Exponential Back-off Time : 6 msec
+00:24:044 Exponential Back-off Time : 28 msec
+00:24:051 Data Receive Finished from Node3
+00:24:052 Data Receive Start from Node1
+00:24:104 Data Receive Finished from Node1
+00:24:105 Data Receive Start from Node2
+00:24:157 Data Receive Finished from Node2
+00:24:196 Exponential Back-off Time : 157 msec
+00:24:196 Exponential Back-off Time : 0 msec
+00:24:197 Exponential Back-off Time : 1 msec
+00:24:198 Exponential Back-off Time : 1 msec
+00:24:214 Exponential Back-off Time : 3 msec
+00:24:224 Exponential Back-off Time : 0 msec
+00:24:263 Exponential Back-off Time : 33 msec
+00:24:264 Exponential Back-off Time : 0 msec
+00:24:300 Exponential Back-off Time : 14 msec
+00:24:390 Data Receive Start from Node2
+00:24:416 Exponential Back-off Time : 35 msec
+00:24:416 Exponential Back-off Time : 0 msec
+00:24:418 Exponential Back-off Time : 0 msec
+00:24:419 Exponential Back-off Time : 1 msec
+00:24:437 Exponential Back-off Time : 6 msec
+00:24:475 Exponential Back-off Time : 10 msec
+00:24:484 Data Receive Finished from Node2
+00:24:485 Data Send Request To Node3
+00:24:485 Data Send Request Accept from Link
+00:24:494 Exponential Back-off Time : 15 msec
+00:24:494 Exponential Back-off Time : 0 msec
+00:24:495 Exponential Back-off Time : 0 msec
+00:24:504 Exponential Back-off Time : 5 msec
+00:24:519 Exponential Back-off Time : 8 msec
+00:24:545 Exponential Back-off Time : 26 msec
+00:24:551 Data Send Finished To Node3
+00:24:552 Data Send Request To Node2
+00:24:552 Data Send Request Accept from Link
+00:24:570 Exponential Back-off Time : 22 msec
+00:24:570 Exponential Back-off Time : 0 msec
+00:24:572 Exponential Back-off Time : 0 msec
+00:24:579 Exponential Back-off Time : 6 msec
+00:24:585 Exponential Back-off Time : 1 msec
+00:24:604 Exponential Back-off Time : 8 msec
+00:24:656 Exponential Back-off Time : 10 msec
+00:24:751 Data Send Finished To Node2
+00:24:804 Data Receive Start from Node1
+00:24:854 Data Receive Finished from Node1
+00:24:855 Data Send Request To Node3
+00:24:856 Data Send Request Accept from Link
+00:24:865 Exponential Back-off Time : 124 msec
+00:24:865 Exponential Back-off Time : 0 msec
+00:24:865 Exponential Back-off Time : 0 msec
+00:24:870 Exponential Back-off Time : 3 msec
+00:24:887 Exponential Back-off Time : 13 msec
+00:24:913 Exponential Back-off Time : 7 msec
+00:24:979 Exponential Back-off Time : 9 msec
+00:24:992 Data Send Finished To Node3
+00:24:993 Data Receive Start from Node3
+00:25:113 Exponential Back-off Time : 40 msec
+00:25:236 Exponential Back-off Time : 2 msec
+00:25:554 Exponential Back-off Time : 23 msec
+00:25:554 Data Receive Finished from Node3
+00:25:555 Data Send Request To Node1
+00:25:555 Data Send Request Accept from Link
+00:25:635 Data Send Finished To Node1
+00:25:636 Data Receive Start from Node3
+00:25:697 Data Receive Finished from Node3
+00:25:764 Data Send Request To Node1
+00:25:764 Data Send Request Accept from Link
+00:25:816 Data Send Finished To Node1
+00:25:817 Data Send Request To Node2
+00:25:817 Data Send Request Accept from Link
+00:25:890 Data Send Finished To Node2
+00:25:891 Data Send Request To Node2
+00:25:891 Data Send Request Accept from Link
+00:25:984 Data Send Finished To Node2
+00:26:158 Data Receive Start from Node2
+00:26:250 Data Receive Finished from Node2
+00:26:335 Data Send Request To Node1
+00:26:335 Data Send Request Accept from Link
+00:26:396 Data Send Finished To Node1
+00:26:397 Data Send Request To Node1
+00:26:397 Data Send Request Accept from Link
+00:26:456 Data Send Finished To Node1
+00:26:457 Data Receive Start from Node2
+00:26:565 Data Receive Finished from Node2
+00:26:566 Data Send Request To Node2
+00:26:566 Data Send Request Accept from Link
+00:26:618 Data Send Finished To Node2
+00:26:670 Data Receive Start from Node3
+00:26:714 Exponential Back-off Time : 792 msec
+00:26:832 Data Receive Finished from Node3
+00:26:840 Exponential Back-off Time : 46 msec
+00:26:840 Exponential Back-off Time : 0 msec
+00:26:844 Exponential Back-off Time : 2 msec
+00:26:847 Exponential Back-off Time : 1 msec
+00:26:854 Exponential Back-off Time : 1 msec
+00:26:876 Exponential Back-off Time : 12 msec
+00:26:921 Exponential Back-off Time : 15 msec
+00:27:015 Data Send Request To Node1
+00:27:015 Data Send Request Accept from Link
+00:27:045 Exponential Back-off Time : 98 msec
+00:27:045 Exponential Back-off Time : 0 msec
+00:27:045 Exponential Back-off Time : 0 msec
+00:27:050 Exponential Back-off Time : 4 msec
+00:27:064 Exponential Back-off Time : 11 msec
+00:27:071 Data Send Finished To Node1
+00:27:090 Exponential Back-off Time : 23 msec
+00:27:090 Exponential Back-off Time : 0 msec
+00:27:094 Exponential Back-off Time : 2 msec
+00:27:105 Exponential Back-off Time : 5 msec
+00:27:116 Exponential Back-off Time : 7 msec
+00:27:128 Exponential Back-off Time : 4 msec
+00:27:183 Exponential Back-off Time : 40 msec
+00:27:237 Exponential Back-off Time : 44 msec
+00:27:237 Exponential Back-off Time : 0 msec
+00:27:239 Exponential Back-off Time : 2 msec
+00:27:246 Exponential Back-off Time : 3 msec
+00:27:256 Exponential Back-off Time : 4 msec
+00:27:424 Exponential Back-off Time : 40 msec
+00:27:424 Exponential Back-off Time : 0 msec
+00:27:424 Exponential Back-off Time : 0 msec
+00:27:427 Exponential Back-off Time : 2 msec
+00:27:434 Exponential Back-off Time : 14 msec
+00:27:458 Exponential Back-off Time : 11 msec
+00:27:483 Exponential Back-off Time : 22 msec
+00:27:483 Exponential Back-off Time : 0 msec
+00:27:485 Exponential Back-off Time : 2 msec
+00:27:492 Exponential Back-off Time : 1 msec
+00:27:513 Exponential Back-off Time : 8 msec
+00:27:563 Exponential Back-off Time : 18 msec
+00:27:571 Data Receive Start from Node1
+00:27:578 Exponential Back-off Time : 11 msec
+00:27:578 Exponential Back-off Time : 0 msec
+00:27:580 Exponential Back-off Time : 0 msec
+00:27:586 Exponential Back-off Time : 0 msec
+00:27:592 Exponential Back-off Time : 6 msec
+00:27:611 Exponential Back-off Time : 9 msec
+00:27:757 Exponential Back-off Time : 29 msec
+00:27:761 Data Receive Finished from Node1
+00:27:762 Data Send Request To Node2
+00:27:762 Data Send Request Accept from Link
+00:27:775 Exponential Back-off Time : 14 msec
+00:27:775 Exponential Back-off Time : 0 msec
+00:27:775 Exponential Back-off Time : 0 msec
+00:27:778 Exponential Back-off Time : 3 msec
+00:27:794 Exponential Back-off Time : 11 msec
+00:27:821 Exponential Back-off Time : 11 msec
+00:27:874 Exponential Back-off Time : 8 msec
+00:27:881 Data Send Finished To Node2
+00:27:882 Data Send Request To Node1
+00:27:882 Data Send Request Accept from Link
+00:27:933 Data Send Finished To Node1
+00:27:949 Data Receive Start from Node3
+00:28:068 Exponential Back-off Time : 108 msec
+00:28:076 Data Receive Finished from Node3
+00:28:077 Data Send Request To Node1
+00:28:077 Data Send Request Accept from Link
+00:28:202 Data Send Finished To Node1
+00:28:211 Exponential Back-off Time : 65 msec
+00:28:211 Exponential Back-off Time : 0 msec
+00:28:211 Exponential Back-off Time : 0 msec
+00:28:217 Exponential Back-off Time : 4 msec
+00:28:230 Exponential Back-off Time : 0 msec
+00:28:259 Exponential Back-off Time : 30 msec
+00:28:281 Exponential Back-off Time : 19 msec
+00:28:281 Exponential Back-off Time : 0 msec
+00:28:281 Exponential Back-off Time : 0 msec
+00:28:290 Exponential Back-off Time : 3 msec
+00:28:309 Exponential Back-off Time : 9 msec
+00:28:386 Exponential Back-off Time : 26 msec
+00:28:393 Data Receive Start from Node3
+00:28:469 Data Receive Finished from Node3
+00:28:500 Exponential Back-off Time : 87 msec
+00:28:500 Exponential Back-off Time : 0 msec
+00:28:500 Exponential Back-off Time : 0 msec
+00:28:505 Exponential Back-off Time : 5 msec
+00:28:516 Exponential Back-off Time : 0 msec
+00:28:546 Exponential Back-off Time : 2 msec
+00:28:561 Data Receive Start from Node2
+00:28:640 Data Receive Finished from Node2
+00:28:674 Data Send Request To Node3
+00:28:674 Data Send Request Reject from Link
+00:28:674 Exponential Back-off Time : 0 msec
+00:28:676 Exponential Back-off Time : 1 msec
+00:28:691 Exponential Back-off Time : 5 msec
+00:28:691 Exponential Back-off Time : 0 msec
+00:28:692 Exponential Back-off Time : 0 msec
+00:28:693 Exponential Back-off Time : 77 msec
+00:28:708 Exponential Back-off Time : 2 msec
+00:28:727 Exponential Back-off Time : 7 msec
+00:28:732 Exponential Back-off Time : 9 msec
+00:28:755 Exponential Back-off Time : 1 msec
+00:28:846 Exponential Back-off Time : 41 msec
+00:28:846 Data Send Request Accept from Link
+00:28:856 Data Send Finished To Node1
+00:28:984 Data Send Request To Node2
+00:28:984 Data Send Request Accept from Link
+00:29:036 Data Send Finished To Node2
+00:29:037 Data Send Request To Node1
+00:29:037 Data Send Request Accept from Link
+00:29:050 Exponential Back-off Time : 157 msec
+00:29:050 Exponential Back-off Time : 0 msec
+00:29:051 Exponential Back-off Time : 0 msec
+00:29:057 Exponential Back-off Time : 2 msec
+00:29:069 Exponential Back-off Time : 0 msec
+00:29:092 Exponential Back-off Time : 2 msec
+00:29:134 Data Send Finished To Node1
+00:29:135 Data Receive Start from Node2
+00:29:157 Exponential Back-off Time : 58 msec
+00:29:157 Exponential Back-off Time : 0 msec
+00:29:159 Exponential Back-off Time : 2 msec
+00:29:165 Exponential Back-off Time : 0 msec
+00:29:186 Exponential Back-off Time : 6 msec
+00:29:288 Exponential Back-off Time : 11 msec
+00:29:525 Exponential Back-off Time : 10 msec
+00:29:526 Data Receive Finished from Node2
+00:29:527 Data Receive Start from Node3
+00:29:578 Data Receive Finished from Node3
+00:29:670 Data Send Request To Node3
+00:29:670 Data Send Request Accept from Link
+00:29:812 Data Send Finished To Node3
+00:29:813 Data Send Request To Node1
+00:29:813 Data Send Request Accept from Link
+00:29:864 Data Send Finished To Node1
+00:29:865 Data Receive Start from Node3
+00:29:953 Data Receive Finished from Node3
+00:30:067 Data Send Request To Node3
+00:30:067 Data Send Request Accept from Link
+00:30:142 Exponential Back-off Time : 355 msec
+00:30:279 Data Send Finished To Node3
+00:30:280 Data Receive Start from Node2
+00:30:331 Data Receive Finished from Node2
+00:30:332 Data Send Request To Node1
+00:30:332 Data Send Request Accept from Link
+00:30:368 Exponential Back-off Time : 105 msec
+00:30:368 Exponential Back-off Time : 0 msec
+00:30:369 Exponential Back-off Time : 0 msec
+00:30:375 Exponential Back-off Time : 3 msec
+00:30:388 Exponential Back-off Time : 10 msec
+00:30:390 Data Send Finished To Node1
+00:30:412 Exponential Back-off Time : 2 msec
+00:30:412 Data Send Request Accept from Link
+00:30:422 Data Send Finished To Node3
+00:30:426 Data Send Request To Node2
+00:30:426 Data Send Request Reject from Link
+00:30:426 Exponential Back-off Time : 0 msec
+00:30:428 Exponential Back-off Time : 2 msec
+00:30:434 Exponential Back-off Time : 0 msec
+00:30:451 Exponential Back-off Time : 8 msec
+00:30:451 Exponential Back-off Time : 0 msec
+00:30:452 Exponential Back-off Time : 0 msec
+00:30:456 Exponential Back-off Time : 3 msec
+00:30:458 Exponential Back-off Time : 0 msec
+00:30:499 Exponential Back-off Time : 12 msec
+00:30:551 Exponential Back-off Time : 48 msec
+00:30:571 Exponential Back-off Time : 13 msec
+00:30:629 Exponential Back-off Time : 24 msec
+00:30:629 Exponential Back-off Time : 0 msec
+00:30:630 Exponential Back-off Time : 0 msec
+00:30:636 Exponential Back-off Time : 2 msec
+00:30:636 Exponential Back-off Time : 0 msec
+00:30:688 Exponential Back-off Time : 27 msec
+00:30:707 Data Receive Start from Node2
+00:30:731 Exponential Back-off Time : 41 msec
+00:30:731 Exponential Back-off Time : 0 msec
+00:30:731 Exponential Back-off Time : 0 msec
+00:30:741 Exponential Back-off Time : 4 msec
+00:30:761 Exponential Back-off Time : 6 msec
+00:30:788 Exponential Back-off Time : 16 msec
+00:30:790 Data Receive Finished from Node2
+00:30:791 Data Send Request To Node3
+00:30:791 Data Send Request Accept from Link
+00:30:895 Exponential Back-off Time : 51 msec
+00:30:898 Data Send Finished To Node3
+00:30:899 Data Receive Start from Node1
+00:30:952 Data Receive Finished from Node1
+00:30:995 Exponential Back-off Time : 102 msec
+00:30:995 Exponential Back-off Time : 0 msec
+00:30:998 Exponential Back-off Time : 1 msec
+00:30:999 Exponential Back-off Time : 0 msec
+00:31:043 Exponential Back-off Time : 3 msec
+00:31:048 Data Receive Start from Node1
+00:31:060 Exponential Back-off Time : 14 msec
+00:31:060 Exponential Back-off Time : 0 msec
+00:31:064 Exponential Back-off Time : 2 msec
+00:31:067 Exponential Back-off Time : 3 msec
+00:31:097 Exponential Back-off Time : 6 msec
+00:31:149 Data Receive Finished from Node1
+00:31:150 Data Receive Start from Node2
+00:31:173 Exponential Back-off Time : 53 msec
+00:31:173 Exponential Back-off Time : 0 msec
+00:31:173 Exponential Back-off Time : 0 msec
+00:31:183 Exponential Back-off Time : 5 msec
+00:31:209 Exponential Back-off Time : 13 msec
+00:31:219 Data Receive Finished from Node2
+00:31:231 Exponential Back-off Time : 19 msec
+00:31:231 Exponential Back-off Time : 0 msec
+00:31:233 Exponential Back-off Time : 0 msec
+00:31:241 Exponential Back-off Time : 4 msec
+00:31:255 Exponential Back-off Time : 13 msec
+00:31:279 Exponential Back-off Time : 13 msec
+00:31:308 Data Receive Start from Node1
+00:31:348 Exponential Back-off Time : 53 msec
+00:31:348 Exponential Back-off Time : 0 msec
+00:31:349 Exponential Back-off Time : 1 msec
+00:31:351 Exponential Back-off Time : 1 msec
+00:31:356 Exponential Back-off Time : 4 msec
+00:31:361 Data Receive Finished from Node1
+00:31:362 Data Send Request To Node1
+00:31:362 Data Send Request Accept from Link
+00:31:414 Exponential Back-off Time : 18 msec
+00:31:422 Exponential Back-off Time : 0 msec
+00:31:616 Exponential Back-off Time : 13 msec
+00:31:639 Data Send Finished To Node1
+00:31:692 Data Send Request To Node3
+00:31:692 Data Send Request Accept from Link
+00:31:742 Data Send Finished To Node3
+00:31:795 Data Receive Start from Node2
+00:31:874 Data Receive Finished from Node2
+00:31:875 Data Send Request To Node1
+00:31:875 Data Send Request Accept from Link
+00:31:955 Data Send Finished To Node1
+00:31:956 Data Receive Start from Node1
+00:32:060 Data Receive Finished from Node1
+00:32:061 Data Send Request To Node3
+00:32:061 Data Send Request Accept from Link
+00:32:143 Data Send Finished To Node3
+00:32:167 Exponential Back-off Time : 408 msec
+00:32:190 Exponential Back-off Time : 6 msec
+00:32:246 Data Send Request To Node3
+00:32:246 Data Send Request Accept from Link
+00:32:255 Exponential Back-off Time : 32 msec
+00:32:255 Exponential Back-off Time : 0 msec
+00:32:256 Exponential Back-off Time : 0 msec
+00:32:261 Exponential Back-off Time : 0 msec
+00:32:273 Exponential Back-off Time : 9 msec
+00:32:306 Exponential Back-off Time : 14 msec
+00:32:326 Data Send Finished To Node3
+00:32:344 Exponential Back-off Time : 40 msec
+00:32:344 Exponential Back-off Time : 0 msec
+00:32:347 Exponential Back-off Time : 1 msec
+00:32:349 Exponential Back-off Time : 2 msec
+00:32:353 Exponential Back-off Time : 3 msec
+00:32:414 Exponential Back-off Time : 11 msec
+00:32:428 Data Send Request To Node3
+00:32:428 Data Send Request Accept from Link
+00:32:518 Data Send Finished To Node3
+00:32:519 Data Send Request To Node3
+00:32:519 Data Send Request Accept from Link
+00:32:594 Exponential Back-off Time : 114 msec
+00:32:597 Data Send Finished To Node3
+00:32:661 Exponential Back-off Time : 40 msec
+00:32:751 Exponential Back-off Time : 30 msec
+00:32:846 Exponential Back-off Time : 36 msec
+00:32:846 Data Send Request Accept from Link
+00:32:856 Data Send Finished To Node2
+00:32:857 Data Send Request To Node1
+00:32:857 Data Send Request Accept from Link
+00:32:932 Data Send Finished To Node1
+00:33:106 Data Send Request To Node2
+00:33:106 Data Send Request Accept from Link
+00:33:278 Data Send Finished To Node2
+00:33:279 Data Send Request To Node2
+00:33:279 Data Send Request Accept from Link
+00:33:330 Data Send Finished To Node2
+00:33:391 Data Receive Start from Node1
+00:33:453 Data Receive Finished from Node1
+00:33:454 Data Receive Start from Node2
+00:33:508 Data Receive Finished from Node2
+00:33:509 Data Send Request To Node1
+00:33:509 Data Send Request Accept from Link
+00:33:695 Data Send Finished To Node1
+00:34:449 Data Receive Start from Node3
+00:34:510 Data Receive Finished from Node3
+00:34:601 Data Send Request To Node1
+00:34:601 Data Send Request Accept from Link
+00:34:718 Data Send Finished To Node1
+00:34:719 Data Receive Start from Node3
+00:34:853 Data Receive Finished from Node3
+00:34:854 Data Receive Start from Node3
+00:34:935 Data Receive Finished from Node3
+00:34:936 Data Send Request To Node3
+00:34:936 Data Send Request Accept from Link
+00:35:106 Data Send Finished To Node3
+00:35:107 Data Receive Start from Node2
+00:35:159 Data Receive Finished from Node2
+00:35:210 Data Receive Start from Node2
+00:35:444 Data Receive Finished from Node2
+00:35:665 Data Receive Start from Node2
+00:35:812 Data Receive Finished from Node2
+00:36:066 Data Send Request To Node3
+00:36:066 Data Send Request Reject from Link
+00:36:066 Exponential Back-off Time : 0 msec
+00:36:067 Exponential Back-off Time : 0 msec
+00:36:083 Exponential Back-off Time : 6 msec
+00:36:083 Exponential Back-off Time : 0 msec
+00:36:083 Exponential Back-off Time : 0 msec
+00:36:088 Exponential Back-off Time : 6 msec
+00:36:100 Exponential Back-off Time : 0 msec
+00:36:124 Exponential Back-off Time : 8 msec
+00:36:273 Data Send Request To Node2
+00:36:273 Data Send Request Accept from Link
+00:36:301 Exponential Back-off Time : 62 msec
+00:36:301 Exponential Back-off Time : 0 msec
+00:36:302 Exponential Back-off Time : 1 msec
+00:36:304 Exponential Back-off Time : 0 msec
+00:36:314 Exponential Back-off Time : 8 msec
+00:36:328 Data Send Finished To Node2
+00:36:329 Data Receive Start from Node1
+00:36:334 Exponential Back-off Time : 18 msec
+00:36:334 Exponential Back-off Time : 0 msec
+00:36:336 Exponential Back-off Time : 2 msec
+00:36:337 Exponential Back-off Time : 0 msec
+00:36:360 Exponential Back-off Time : 12 msec
+00:36:401 Exponential Back-off Time : 20 msec
+00:36:435 Exponential Back-off Time : 5 msec
+00:36:445 Data Receive Finished from Node1
+00:36:446 Data Send Request To Node3
+00:36:446 Data Send Request Accept from Link
+00:36:453 Exponential Back-off Time : 14 msec
+00:36:453 Exponential Back-off Time : 0 msec
+00:36:456 Exponential Back-off Time : 1 msec
+00:36:457 Exponential Back-off Time : 1 msec
+00:36:492 Exponential Back-off Time : 11 msec
+00:36:549 Exponential Back-off Time : 1 msec
+00:36:662 Exponential Back-off Time : 4 msec
+00:36:818 Data Send Finished To Node3
+00:36:882 Exponential Back-off Time : 77 msec
+00:36:916 Exponential Back-off Time : 20 msec
+00:36:949 Exponential Back-off Time : 6 msec
+00:36:985 Data Send Request To Node2
+00:36:985 Data Send Request Accept from Link
+00:37:014 Exponential Back-off Time : 56 msec
+00:37:014 Exponential Back-off Time : 0 msec
+00:37:015 Exponential Back-off Time : 0 msec
+00:37:021 Exponential Back-off Time : 4 msec
+00:37:025 Exponential Back-off Time : 5 msec
+00:37:112 Data Send Finished To Node2
+00:37:127 Exponential Back-off Time : 26 msec
+00:37:127 Exponential Back-off Time : 0 msec
+00:37:128 Exponential Back-off Time : 0 msec
+00:37:138 Exponential Back-off Time : 4 msec
+00:37:149 Exponential Back-off Time : 10 msec
+00:37:180 Exponential Back-off Time : 20 msec
+00:37:224 Exponential Back-off Time : 6 msec
+00:37:224 Data Send Request Accept from Link
+00:37:238 Data Send Finished To Node3
+00:37:449 Data Send Request To Node3
+00:37:449 Data Send Request Accept from Link
+00:37:505 Data Send Finished To Node3
+00:37:506 Data Receive Start from Node1
+00:37:586 Data Receive Finished from Node1
+00:37:587 Data Send Request To Node3
+00:37:587 Data Send Request Accept from Link
+00:37:652 Data Send Finished To Node3
+00:37:867 Data Receive Start from Node2
+00:37:918 Data Receive Finished from Node2
+00:37:919 Data Send Request To Node2
+00:37:919 Data Send Request Accept from Link
+00:37:985 Data Send Finished To Node2
+00:38:049 Data Receive Start from Node2
+00:38:140 Data Receive Finished from Node2
+00:38:141 Data Receive Start from Node3
+00:38:209 Data Receive Finished from Node3
+00:38:210 Data Send Request To Node1
+00:38:210 Data Send Request Accept from Link
+00:38:301 Data Send Finished To Node1
+00:38:532 Data Receive Start from Node3
+00:38:603 Data Receive Finished from Node3
+00:38:677 Data Send Request To Node2
+00:38:677 Data Send Request Accept from Link
+00:38:759 Data Send Finished To Node2
+00:39:144 Data Send Request To Node3
+00:39:144 Data Send Request Accept from Link
+00:39:204 Data Send Finished To Node3
+00:39:205 Data Receive Start from Node1
+00:39:283 Data Receive Finished from Node1
+00:39:284 Data Receive Start from Node1
+00:39:354 Data Receive Finished from Node1
+00:39:355 Data Send Request To Node3
+00:39:355 Data Send Request Accept from Link
+00:39:412 Data Send Finished To Node3
+00:39:413 Data Send Request To Node2
+00:39:413 Data Send Request Accept from Link
+00:39:518 Data Send Finished To Node2
+00:39:598 Data Receive Start from Node3
+00:39:670 Data Receive Finished from Node3
+00:39:911 Data Send Request To Node2
+00:39:911 Data Send Request Accept from Link
+00:40:043 Data Send Finished To Node2
+00:40:324 Data Send Request To Node1
+00:40:324 Data Send Request Accept from Link
+00:40:390 Data Send Finished To Node1
+00:40:448 Data Receive Start from Node1
+00:40:520 Data Receive Finished from Node1
+00:40:686 Data Send Request To Node1
+00:40:686 Data Send Request Accept from Link
+00:40:772 Data Send Finished To Node1
+00:40:773 Data Send Request To Node1
+00:40:773 Data Send Request Accept from Link
+00:40:831 Data Send Finished To Node1
+00:40:832 Data Receive Start from Node1
+00:40:890 Data Receive Finished from Node1
+00:40:891 Data Receive Start from Node3
+00:41:030 Data Receive Finished from Node3
+00:41:359 Data Send Request To Node3
+00:41:359 Data Send Request Accept from Link
+00:41:416 Data Send Finished To Node3
+00:41:417 Data Send Request To Node1
+00:41:417 Data Send Request Accept from Link
+00:41:479 Data Send Finished To Node1
+00:41:480 Data Send Request To Node1
+00:41:480 Data Send Request Accept from Link
+00:41:533 Data Send Finished To Node1
+00:41:668 Data Send Request To Node3
+00:41:668 Data Send Request Accept from Link
+00:41:848 Data Send Finished To Node3
+00:41:849 Data Send Request To Node1
+00:41:849 Data Send Request Accept from Link
+00:41:900 Data Send Finished To Node1
+00:42:097 Data Send Request To Node2
+00:42:097 Data Send Request Accept from Link
+00:42:220 Data Send Finished To Node2
+00:42:221 Data Receive Start from Node2
+00:42:345 Data Receive Finished from Node2
+00:42:346 Data Send Request To Node2
+00:42:346 Data Send Request Accept from Link
+00:42:398 Data Send Finished To Node2
+00:42:449 Data Send Request To Node1
+00:42:449 Data Send Request Accept from Link
+00:42:621 Data Send Finished To Node1
+00:42:622 Data Send Request To Node3
+00:42:622 Data Send Request Accept from Link
+00:42:680 Data Send Finished To Node3
+00:43:131 Data Send Request To Node1
+00:43:131 Data Send Request Accept from Link
+00:43:182 Data Send Finished To Node1
+00:43:183 Data Send Request To Node3
+00:43:183 Data Send Request Accept from Link
+00:43:235 Data Send Finished To Node3
+00:43:236 Data Send Request To Node3
+00:43:236 Data Receive Start from Node2
+00:43:237 Data Send Request Reject from Link
+00:43:240 Exponential Back-off Time : 2 msec
+00:43:246 Data Receive Finished from Node2
+00:43:254 Exponential Back-off Time : 4 msec
+00:43:254 Exponential Back-off Time : 0 msec
+00:43:254 Exponential Back-off Time : 0 msec
+00:43:260 Exponential Back-off Time : 0 msec
+00:43:271 Exponential Back-off Time : 0 msec
+00:43:306 Exponential Back-off Time : 25 msec
+00:43:335 Exponential Back-off Time : 16 msec
+00:43:342 Data Receive Start from Node3
+00:43:378 Exponential Back-off Time : 41 msec
+00:43:378 Exponential Back-off Time : 0 msec
+00:43:380 Exponential Back-off Time : 2 msec
+00:43:381 Exponential Back-off Time : 0 msec
+00:43:473 Exponential Back-off Time : 8 msec
+00:43:557 Data Receive Finished from Node3
+00:43:583 Exponential Back-off Time : 30 msec
+00:43:583 Exponential Back-off Time : 0 msec
+00:43:586 Exponential Back-off Time : 2 msec
+00:43:589 Exponential Back-off Time : 1 msec
+00:43:593 Exponential Back-off Time : 3 msec
+00:43:624 Exponential Back-off Time : 1 msec
+00:43:686 Exponential Back-off Time : 19 msec
+00:43:758 Exponential Back-off Time : 70 msec
+00:43:758 Exponential Back-off Time : 0 msec
+00:43:758 Exponential Back-off Time : 0 msec
+00:43:801 Exponential Back-off Time : 6 msec
+00:43:955 Exponential Back-off Time : 60 msec
+00:44:016 Exponential Back-off Time : 11 msec
+00:44:161 Exponential Back-off Time : 126 msec
+00:44:186 Exponential Back-off Time : 11 msec
+00:44:203 Exponential Back-off Time : 9 msec
+00:44:306 Exponential Back-off Time : 43 msec
+00:44:306 Exponential Back-off Time : 0 msec
+00:44:308 Exponential Back-off Time : 0 msec
+00:44:308 Exponential Back-off Time : 0 msec
+00:44:321 Exponential Back-off Time : 3 msec
+00:44:360 Exponential Back-off Time : 13 msec
+00:44:468 Exponential Back-off Time : 58 msec
+00:44:539 Exponential Back-off Time : 49 msec
+00:44:636 Data Receive Start from Node1
+00:44:688 Data Receive Finished from Node1
+00:44:689 Data Receive Start from Node2
+00:44:698 Exponential Back-off Time : 79 msec
+00:44:698 Exponential Back-off Time : 0 msec
+00:44:700 Exponential Back-off Time : 2 msec
+00:44:701 Exponential Back-off Time : 1 msec
+00:44:717 Exponential Back-off Time : 11 msec
+00:44:769 Exponential Back-off Time : 30 msec
+00:44:770 Data Receive Finished from Node2
+00:44:791 Exponential Back-off Time : 18 msec
+00:44:802 Exponential Back-off Time : 1 msec
+00:44:884 Exponential Back-off Time : 19 msec
+00:45:103 Exponential Back-off Time : 100 msec
+00:45:103 Exponential Back-off Time : 0 msec
+00:45:105 Exponential Back-off Time : 0 msec
+00:45:110 Exponential Back-off Time : 5 msec
+00:45:123 Exponential Back-off Time : 14 msec
+00:45:123 Exponential Back-off Time : 0 msec
+00:45:123 Exponential Back-off Time : 0 msec
+00:45:134 Exponential Back-off Time : 1 msec
+00:45:148 Exponential Back-off Time : 13 msec
+00:45:173 Exponential Back-off Time : 10 msec
+00:45:214 Exponential Back-off Time : 11 msec
+00:45:267 Exponential Back-off Time : 53 msec
+00:45:267 Exponential Back-off Time : 0 msec
+00:45:270 Exponential Back-off Time : 2 msec
+00:45:275 Exponential Back-off Time : 5 msec
+00:45:287 Exponential Back-off Time : 3 msec
+00:45:292 Data Send Request To Node1
+00:45:292 Data Send Request Accept from Link
+00:45:301 Exponential Back-off Time : 9 msec
+00:45:301 Exponential Back-off Time : 0 msec
+00:45:301 Exponential Back-off Time : 0 msec
+00:45:306 Exponential Back-off Time : 0 msec
+00:45:316 Exponential Back-off Time : 8 msec
+00:45:337 Exponential Back-off Time : 13 msec
+00:45:480 Data Send Finished To Node1
+00:45:481 Data Receive Start from Node3
+00:45:488 Exponential Back-off Time : 29 msec
+00:45:488 Exponential Back-off Time : 0 msec
+00:45:489 Exponential Back-off Time : 1 msec
+00:45:495 Exponential Back-off Time : 4 msec
+00:45:510 Exponential Back-off Time : 7 msec
+00:45:563 Exponential Back-off Time : 26 msec
+00:45:571 Data Receive Finished from Node3
+00:45:588 Exponential Back-off Time : 22 msec
+00:45:588 Exponential Back-off Time : 0 msec
+00:45:588 Exponential Back-off Time : 0 msec
+00:45:593 Exponential Back-off Time : 3 msec
+00:45:604 Exponential Back-off Time : 10 msec
+00:45:617 Exponential Back-off Time : 13 msec
+00:45:629 Data Receive Start from Node1
+00:45:672 Exponential Back-off Time : 55 msec
+00:45:672 Exponential Back-off Time : 0 msec
+00:45:673 Exponential Back-off Time : 1 msec
+00:45:677 Exponential Back-off Time : 2 msec
+00:45:691 Exponential Back-off Time : 0 msec
+00:45:696 Data Receive Finished from Node1
+00:45:697 Data Receive Start from Node3
+00:45:711 Exponential Back-off Time : 16 msec
+00:45:711 Exponential Back-off Time : 0 msec
+00:45:713 Exponential Back-off Time : 0 msec
+00:45:714 Exponential Back-off Time : 1 msec
+00:45:721 Exponential Back-off Time : 0 msec
+00:45:753 Exponential Back-off Time : 10 msec
+00:45:765 Exponential Back-off Time : 7 msec
+00:45:796 Data Receive Finished from Node3
+00:45:797 Data Send Request To Node1
+00:45:797 Data Send Request Accept from Link
+00:45:849 Data Send Finished To Node1
+00:45:850 Data Receive Start from Node1
+00:45:898 Exponential Back-off Time : 124 msec
+00:45:899 Exponential Back-off Time : 2 msec
+00:45:900 Data Receive Finished from Node1
+00:46:080 Exponential Back-off Time : 26 msec
+00:46:105 Data Receive Start from Node1
+00:46:154 Exponential Back-off Time : 76 msec
+00:46:154 Exponential Back-off Time : 0 msec
+00:46:156 Exponential Back-off Time : 1 msec
+00:46:160 Exponential Back-off Time : 1 msec
+00:46:160 Data Send Request Accept from Link
+00:46:157 Data Receive Finished from Node1
+00:46:172 Data Send Finished To Node3
+00:46:173 Data Send Request To Node2
+00:46:173 Data Send Request Accept from Link
+00:46:276 Data Send Finished To Node2
+00:46:564 Data Send Request To Node1
+00:46:564 Data Send Request Accept from Link
+00:46:790 Data Send Finished To Node1
+00:47:286 Data Send Request To Node2
+00:47:286 Data Send Request Accept from Link
+00:47:375 Data Send Finished To Node2
+00:47:376 Data Receive Start from Node2
+00:47:513 Data Receive Finished from Node2
+00:47:514 Data Send Request To Node3
+00:47:514 Data Send Request Accept from Link
+00:47:637 Data Send Finished To Node3
+00:47:851 Data Receive Start from Node1
+00:47:975 Data Receive Finished from Node1
+00:48:678 Data Receive Start from Node3
+00:48:796 Data Receive Finished from Node3
+00:48:797 Data Send Request To Node1
+00:48:797 Data Send Request Accept from Link
+00:48:854 Data Send Finished To Node1
+00:48:855 Data Receive Start from Node3
+00:48:993 Data Receive Finished from Node3
+00:48:994 Data Send Request To Node3
+00:48:994 Data Send Request Accept from Link
+00:49:045 Data Send Finished To Node3
+00:49:183 Data Send Request To Node1
+00:49:183 Data Send Request Accept from Link
+00:49:266 Data Send Finished To Node1
+00:49:267 Data Send Request To Node3
+00:49:267 Data Send Request Accept from Link
+00:49:333 Data Send Finished To Node3
+00:49:334 Data Receive Start from Node3
+00:49:446 Data Receive Finished from Node3
+00:49:628 Data Receive Start from Node1
+00:49:638 Data Receive Finished from Node1
+00:49:783 Data Receive Start from Node2
+00:49:851 Data Receive Finished from Node2
+00:49:852 Data Receive Start from Node3
+00:49:918 Data Receive Finished from Node3
+00:50:052 Data Receive Start from Node3
+00:50:129 Data Receive Finished from Node3
+00:50:130 Data Receive Start from Node1
+00:50:196 Data Receive Finished from Node1
+00:50:323 Data Receive Start from Node3
+00:50:395 Data Receive Finished from Node3
+00:50:539 Data Send Request To Node1
+00:50:539 Data Send Request Accept from Link
+00:50:590 Data Send Finished To Node1
+00:50:591 Data Send Request To Node3
+00:50:591 Data Send Request Accept from Link
+00:50:652 Data Send Finished To Node3
+00:50:895 Data Receive Start from Node2
+00:50:935 Data Receive Finished from Node2
+00:51:081 Data Receive Start from Node2
+00:51:164 Data Receive Finished from Node2
+00:51:246 Data Send Request To Node1
+00:51:246 Data Send Request Accept from Link
+00:51:333 Data Send Finished To Node1
+00:51:334 Data Receive Start from Node1
+00:51:412 Data Receive Finished from Node1
+00:51:413 Data Send Request To Node1
+00:51:413 Data Send Request Accept from Link
+00:51:491 Data Send Finished To Node1
+00:51:492 Data Send Request To Node2
+00:51:492 Data Send Request Accept from Link
+00:51:558 Data Send Finished To Node2
+00:51:847 Data Send Request To Node2
+00:51:847 Data Send Request Accept from Link
+00:51:924 Data Send Finished To Node2
+00:51:925 Data Send Request To Node1
+00:51:925 Data Send Request Accept from Link
+00:52:045 Data Send Finished To Node1
+00:52:046 Data Receive Start from Node3
+00:52:132 Data Receive Finished from Node3
+00:52:142 Data Send Request To Node1
+00:52:142 Data Send Request Reject from Link
+00:52:142 Exponential Back-off Time : 0 msec
+00:52:144 Exponential Back-off Time : 0 msec
+00:52:155 Exponential Back-off Time : 6 msec
+00:52:155 Data Send Request Accept from Link
+00:52:160 Data Send Finished To Node1
+00:52:161 Data Receive Start from Node1
+00:52:239 Data Receive Finished from Node1
+00:52:405 Data Receive Start from Node2
+00:52:491 Data Receive Finished from Node2
+00:52:805 Data Receive Start from Node3
+00:52:895 Data Receive Finished from Node3
+00:53:019 Data Receive Start from Node3
+00:53:098 Data Receive Finished from Node3
+00:53:099 Data Send Request To Node3
+00:53:099 Data Send Request Accept from Link
+00:53:151 Data Send Finished To Node3
+00:53:152 Data Send Request To Node2
+00:53:152 Data Send Request Accept from Link
+00:53:212 Data Send Finished To Node2
+00:53:213 Data Receive Start from Node2
+00:53:272 Data Receive Finished from Node2
+00:53:275 Data Send Request To Node2
+00:53:275 Data Send Request Reject from Link
+00:53:275 Exponential Back-off Time : 0 msec
+00:53:276 Exponential Back-off Time : 1 msec
+00:53:281 Exponential Back-off Time : 0 msec
+00:53:286 Exponential Back-off Time : 1 msec
+00:53:321 Exponential Back-off Time : 27 msec
+00:53:321 Exponential Back-off Time : 0 msec
+00:53:323 Exponential Back-off Time : 0 msec
+00:53:326 Exponential Back-off Time : 0 msec
+00:53:334 Exponential Back-off Time : 5 msec
+00:53:364 Exponential Back-off Time : 28 msec
+00:53:364 Exponential Back-off Time : 0 msec
+00:53:364 Exponential Back-off Time : 0 msec
+00:53:368 Exponential Back-off Time : 4 msec
+00:53:373 Exponential Back-off Time : 3 msec
+00:53:409 Exponential Back-off Time : 24 msec
+00:53:457 Exponential Back-off Time : 7 msec
+00:53:515 Data Send Request To Node1
+00:53:515 Data Send Request Accept from Link
+00:53:535 Exponential Back-off Time : 76 msec
+00:53:535 Exponential Back-off Time : 0 msec
+00:53:537 Exponential Back-off Time : 1 msec
+00:53:539 Exponential Back-off Time : 0 msec
+00:53:553 Exponential Back-off Time : 8 msec
+00:53:601 Exponential Back-off Time : 19 msec
+00:53:605 Data Send Finished To Node1
+00:53:606 Data Send Request To Node2
+00:53:606 Data Send Request Accept from Link
+00:53:640 Exponential Back-off Time : 38 msec
+00:53:640 Exponential Back-off Time : 0 msec
+00:53:642 Exponential Back-off Time : 1 msec
+00:53:643 Exponential Back-off Time : 1 msec
+00:53:651 Exponential Back-off Time : 8 msec
+00:53:658 Data Send Finished To Node2
+00:53:659 Data Receive Start from Node1
+00:53:674 Exponential Back-off Time : 28 msec
+00:53:674 Exponential Back-off Time : 0 msec
+00:53:675 Exponential Back-off Time : 0 msec
+00:53:678 Exponential Back-off Time : 3 msec
+00:53:684 Exponential Back-off Time : 6 msec
+00:53:701 Exponential Back-off Time : 4 msec
+00:53:725 Data Receive Finished from Node1
+00:53:726 Data Receive Start from Node3
+00:53:742 Exponential Back-off Time : 39 msec
+00:53:742 Exponential Back-off Time : 0 msec
+00:53:743 Exponential Back-off Time : 1 msec
+00:53:745 Exponential Back-off Time : 2 msec
+00:53:763 Exponential Back-off Time : 12 msec
+00:53:789 Exponential Back-off Time : 15 msec
+00:53:796 Data Receive Finished from Node3
+00:53:797 Data Receive Start from Node2
+00:53:831 Exponential Back-off Time : 41 msec
+00:53:831 Exponential Back-off Time : 0 msec
+00:53:832 Exponential Back-off Time : 1 msec
+00:53:839 Exponential Back-off Time : 3 msec
+00:53:852 Exponential Back-off Time : 9 msec
+00:53:857 Data Receive Finished from Node2
+00:53:858 Data Receive Start from Node1
+00:53:867 Exponential Back-off Time : 11 msec
+00:53:867 Exponential Back-off Time : 0 msec
+00:53:868 Exponential Back-off Time : 0 msec
+00:53:872 Exponential Back-off Time : 1 msec
+00:53:878 Exponential Back-off Time : 6 msec
+00:53:907 Exponential Back-off Time : 11 msec
+00:53:928 Exponential Back-off Time : 1 msec
+00:53:952 Data Receive Finished from Node1
+00:53:953 Data Receive Start from Node1
+00:54:004 Data Receive Finished from Node1
+00:54:042 Exponential Back-off Time : 115 msec
+00:54:042 Exponential Back-off Time : 0 msec
+00:54:043 Exponential Back-off Time : 1 msec
+00:54:046 Exponential Back-off Time : 3 msec
+00:54:056 Exponential Back-off Time : 8 msec
+00:54:067 Exponential Back-off Time : 0 msec
+00:54:131 Exponential Back-off Time : 61 msec
+00:54:131 Exponential Back-off Time : 0 msec
+00:54:131 Exponential Back-off Time : 0 msec
+00:54:136 Exponential Back-off Time : 1 msec
+00:54:154 Exponential Back-off Time : 8 msec
+00:54:168 Exponential Back-off Time : 8 msec
+00:54:193 Exponential Back-off Time : 5 msec
+00:54:214 Data Receive Start from Node2
+00:54:262 Exponential Back-off Time : 74 msec
+00:54:262 Exponential Back-off Time : 0 msec
+00:54:262 Exponential Back-off Time : 0 msec
+00:54:262 Data Receive Finished from Node2
+00:54:269 Exponential Back-off Time : 3 msec
+00:54:269 Exponential Back-off Time : 0 msec
+00:54:271 Exponential Back-off Time : 1 msec
+00:54:272 Exponential Back-off Time : 1 msec
+00:54:281 Exponential Back-off Time : 0 msec
+00:54:329 Exponential Back-off Time : 28 msec
+00:54:359 Exponential Back-off Time : 28 msec
+00:54:359 Exponential Back-off Time : 0 msec
+00:54:361 Exponential Back-off Time : 2 msec
+00:54:364 Exponential Back-off Time : 3 msec
+00:54:374 Exponential Back-off Time : 2 msec
+00:54:395 Exponential Back-off Time : 24 msec
+00:54:453 Exponential Back-off Time : 10 msec
+00:54:503 Exponential Back-off Time : 50 msec
+00:54:503 Exponential Back-off Time : 0 msec
+00:54:503 Exponential Back-off Time : 0 msec
+00:54:505 Exponential Back-off Time : 2 msec
+00:54:505 Exponential Back-off Time : 0 msec
+00:54:505 Exponential Back-off Time : 0 msec
+00:54:512 Exponential Back-off Time : 2 msec
+00:54:521 Exponential Back-off Time : 10 msec
+00:54:565 Exponential Back-off Time : 21 msec
+00:54:632 Exponential Back-off Time : 14 msec
+00:54:636 Data Send Request To Node2
+00:54:636 Data Send Request Accept from Link
+00:54:687 Data Send Finished To Node2
+00:54:688 Data Send Request To Node1
+00:54:688 Data Send Request Accept from Link
+00:54:721 Exponential Back-off Time : 88 msec
+00:54:721 Exponential Back-off Time : 0 msec
+00:54:725 Exponential Back-off Time : 2 msec
+00:54:732 Exponential Back-off Time : 6 msec
+00:54:734 Exponential Back-off Time : 0 msec
+00:54:739 Exponential Back-off Time : 6 msec
+00:54:743 Data Send Finished To Node1
+00:54:802 Exponential Back-off Time : 59 msec
+00:54:802 Exponential Back-off Time : 0 msec
+00:54:805 Exponential Back-off Time : 2 msec
+00:54:816 Exponential Back-off Time : 6 msec
+00:54:831 Exponential Back-off Time : 4 msec
+00:54:842 Exponential Back-off Time : 2 msec
+00:54:901 Exponential Back-off Time : 62 msec
+00:54:901 Exponential Back-off Time : 0 msec
+00:54:902 Exponential Back-off Time : 1 msec
+00:54:910 Exponential Back-off Time : 4 msec
+00:54:918 Exponential Back-off Time : 7 msec
+00:54:954 Exponential Back-off Time : 11 msec
+00:54:958 Exponential Back-off Time : 2 msec
+00:55:012 Data Receive Start from Node2
+00:55:022 Exponential Back-off Time : 60 msec
+00:55:022 Exponential Back-off Time : 0 msec
+00:55:023 Exponential Back-off Time : 1 msec
+00:55:029 Exponential Back-off Time : 0 msec
+00:55:032 Exponential Back-off Time : 0 msec
+00:55:057 Exponential Back-off Time : 6 msec
+00:55:090 Data Receive Finished from Node2
+00:55:109 Exponential Back-off Time : 54 msec
+00:55:109 Exponential Back-off Time : 0 msec
+00:55:111 Exponential Back-off Time : 0 msec
+00:55:115 Exponential Back-off Time : 0 msec
+00:55:139 Exponential Back-off Time : 11 msec
+00:55:165 Exponential Back-off Time : 16 msec
+00:55:186 Exponential Back-off Time : 17 msec
+00:55:186 Exponential Back-off Time : 0 msec
+00:55:189 Exponential Back-off Time : 2 msec
+00:55:194 Exponential Back-off Time : 0 msec
+00:55:210 Exponential Back-off Time : 11 msec
+00:55:251 Exponential Back-off Time : 17 msec
+00:55:260 Data Send Request To Node3
+00:55:260 Data Send Request Accept from Link
+00:55:267 Exponential Back-off Time : 13 msec
+00:55:267 Exponential Back-off Time : 0 msec
+00:55:267 Exponential Back-off Time : 0 msec
+00:55:272 Exponential Back-off Time : 0 msec
+00:55:275 Exponential Back-off Time : 3 msec
+00:55:310 Exponential Back-off Time : 20 msec
+00:55:331 Data Send Finished To Node3
+00:55:367 Exponential Back-off Time : 58 msec
+00:55:367 Exponential Back-off Time : 0 msec
+00:55:369 Exponential Back-off Time : 0 msec
+00:55:373 Exponential Back-off Time : 0 msec
+00:55:397 Exponential Back-off Time : 12 msec
+00:55:403 Exponential Back-off Time : 6 msec
+00:55:403 Data Send Request Accept from Link
+00:55:413 Data Send Finished To Node2
+00:55:583 Data Send Request To Node1
+00:55:583 Data Send Request Accept from Link
+00:55:636 Data Send Finished To Node1
+00:55:637 Data Receive Start from Node3
+00:55:705 Data Receive Finished from Node3
+00:55:706 Data Receive Start from Node1
+00:55:792 Data Receive Finished from Node1
+00:55:845 Data Receive Start from Node3
+00:55:905 Data Receive Start from Node2
+00:55:910 Data Receive Finished from Node2
+00:55:896 Data Receive Finished from Node3
+00:55:911 Data Send Request To Node2
+00:55:911 Data Send Request Accept from Link
+00:56:037 Data Send Finished To Node2
+00:56:038 Data Receive Start from Node1
+00:56:089 Data Receive Finished from Node1
+00:56:090 Data Send Request To Node2
+00:56:090 Data Send Request Accept from Link
+00:56:149 Data Send Finished To Node2
+00:56:163 Data Receive Start from Node3
+00:56:259 Data Receive Finished from Node3
+00:56:260 Data Send Request To Node3
+00:56:260 Data Send Request Accept from Link
+00:56:316 Data Send Finished To Node3
+00:56:326 Data Receive Start from Node1
+00:56:335 Data Receive Finished from Node1
+00:56:336 Data Send Request To Node3
+00:56:336 Data Send Request Accept from Link
+00:56:388 Data Send Finished To Node3
+00:56:493 Data Receive Start from Node3
+00:56:544 Data Receive Finished from Node3
+00:56:650 Data Send Request To Node2
+00:56:650 Data Send Request Accept from Link
+00:56:700 Data Send Finished To Node2
+00:56:851 Data Send Request To Node1
+00:56:851 Data Send Request Accept from Link
+00:56:902 Data Send Finished To Node1
+00:57:057 Data Receive Start from Node3
+00:57:108 Data Receive Finished from Node3
+00:57:160 Data Send Request To Node1
+00:57:160 Data Send Request Accept from Link
+00:57:210 Data Send Finished To Node1
+00:57:262 Data Send Request To Node1
+00:57:262 Data Send Request Accept from Link
+00:57:313 Data Send Finished To Node1
+00:57:314 Data Receive Start from Node1
+00:57:364 Data Receive Finished from Node1
+00:57:420 Data Send Request To Node2
+00:57:420 Data Send Request Accept from Link
+00:57:468 Data Send Finished To Node2
+00:57:469 Data Send Request To Node2
+00:57:469 Data Send Request Accept from Link
+00:57:521 Data Send Finished To Node2
+00:57:522 Data Send Request To Node2
+00:57:522 Data Send Request Accept from Link
+00:57:570 Data Send Finished To Node2
+00:57:571 Data Receive Start from Node1
+00:57:629 Data Receive Finished from Node1
+00:57:630 Data Receive Start from Node2
+00:57:680 Data Receive Finished from Node2
+00:57:834 Data Receive Start from Node1
+00:57:885 Data Receive Finished from Node1
+00:57:886 Data Receive Start from Node1
+00:57:937 Data Receive Finished from Node1
+00:57:938 Data Receive Start from Node2
+00:57:987 Data Receive Finished from Node2
+00:58:139 Data Send Request To Node2
+00:58:139 Data Send Request Accept from Link
+00:58:190 Data Send Finished To Node2
+00:58:242 Data Send Request To Node2
+00:58:242 Data Send Request Accept from Link
+00:58:292 Data Send Finished To Node2
+00:58:345 Data Receive Start from Node3
+00:58:394 Data Receive Finished from Node3
+00:58:395 Data Receive Start from Node2
+00:58:445 Data Receive Finished from Node2
+00:58:498 Data Send Request To Node1
+00:58:498 Data Send Request Accept from Link
+00:58:548 Data Send Finished To Node1
+00:58:706 Data Send Request To Node2
+00:58:706 Data Send Request Accept from Link
+00:58:756 Data Send Finished To Node2
+00:58:999 Data Send Request To Node1
+00:58:999 Data Send Request Accept from Link
+00:59:049 Data Send Finished To Node1
+00:59:148 Data Send Request To Node3
+00:59:148 Data Send Request Accept from Link
+00:59:200 Data Send Finished To Node3
+00:59:251 Data Send Request To Node3
+00:59:251 Data Send Request Accept from Link
+00:59:302 Data Send Finished To Node3
+00:59:303 Data Send Request To Node3
+00:59:303 Data Send Request Accept from Link
+00:59:353 Data Send Finished To Node3
+00:59:354 Data Receive Start from Node2
+00:59:405 Data Receive Finished from Node2
+00:59:460 Data Receive Start from Node2
+00:59:512 Data Receive Finished from Node2
+00:59:565 Data Send Request To Node1
+00:59:565 Data Send Request Accept from Link
+00:59:607 Data Send Finished To Node1
+00:59:660 Data Receive Start from Node3
+00:59:710 Data Receive Finished from Node3
+00:59:711 Data Send Request To Node1
+00:59:711 Data Send Request Accept from Link
+00:59:761 Data Send Finished To Node1
+00:59:762 Data Send Request To Node3
+00:59:762 Data Send Request Accept from Link
+00:59:812 Data Send Finished To Node3
+00:59:813 Data Receive Start from Node2
+00:59:864 Data Receive Finished from Node2
+00:59:865 Data Receive Start from Node3
+00:59:910 Data Receive Finished from Node3
+01:00:000 Node4 Finshed
+Node4.txt
